@@ -1,0 +1,6 @@
+com\macys\run\MySampleSerenityStories.class
+com\macys\main\TestBase.class
+com\macys\run\ConfigurationRun.class
+com\macys\main\TestService.class
+com\macys\steps\TestSteps.class
+com\macys\util\TestUtil.class

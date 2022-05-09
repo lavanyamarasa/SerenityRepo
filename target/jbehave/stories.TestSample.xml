@@ -1,0 +1,14 @@
+<story path="stories/TestSample.story" title="">
+<meta>
+<property keyword="@" name="regression" value=""/>
+<property keyword="@" name="themes" value="regression"/>
+</meta>
+<narrative keyword="Narrative:">
+  <inOrderTo keyword="In order to">try or use PunchPlatform quickly out of a production environment</inOrderTo>
+  <asA keyword="As a">ubuntu non-privilged user</asA>
+  <iWantTo keyword="I want to">deploy a stand-alone, start it and run a simple end-to-end use case</iWantTo>
+</narrative>
+<scenario keyword="Scenario:" title="Sample Story to Execute">
+<step outcome="successful">Given Using testNG excute in parallel mode</step>
+</scenario>
+</story>

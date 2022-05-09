@@ -1,0 +1,6 @@
+#org.jbehave.core.embedder.StoryManager
+#Mon May 09 10:50:00 IST 2022
+threads=1
+total=15000
+threadAverage=15000
+stories/TestSample.story=15000
